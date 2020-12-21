@@ -1,0 +1,10 @@
+Requirements:
+-Pytorch
+-Torchvision
+-OpenCV
+-Numpy
+-TensorboardX (https://github.com/lanpa/tensorboardX)
+-cpbd (https://pypi.org/project/cpbd/)
+-brisque (https://pypi.org/project/image-quality/)
+-FaceQNet (https://github.com/uam-biometrics/FaceQnet)
+
