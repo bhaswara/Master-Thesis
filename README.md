@@ -3,4 +3,6 @@ This repository contains my thesis files including the codes and the papers. My 
 The autoencoder results for different latent dimension size are shown in the image below.
 
 ![Screenshot](recons_image.png)
+![Screenshot](ROC_Euclidean.png)
+![Screenshot](ROC_FRGC.png)
 
